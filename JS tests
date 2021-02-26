@@ -2,4 +2,8 @@
 
 String 
 
-"My name is Stan"
+alert (`Hello World`)
+
+let js = `amazing`
+
+if (js === `amazing`) alert (JavaScript is amazing)
