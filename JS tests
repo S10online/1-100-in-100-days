@@ -1,9 +1,46 @@
-{Hello world}
 
-String 
+/*
+let js = `amazing`;
+//console.log(40 + 8 + 23 - 10);
 
-alert (`Hello World`)
+console.log("Stanislav");
+console.log(29);
 
-let js = `amazing`
+let firstName = "firstName is a variable";
+console.log(firstName);
 
-if (js === `amazing`) alert (JavaScript is amazing)
+// Variable name conventions
+let stan_sarah = `ss`
+
+let $function = "27";
+let _function = "28";
+
+let person = "Stan";
+let PI = 3.1415
+
+let myFirstJob = "architect";
+let myCurrentJob = "student";
+
+console.log(myFirstJob);
+*/
+
+let javaScriptIsFun = true;
+console.log(javaScriptIsFun);
+
+// console.log(typeof true);
+console.log(typeof javaScriptIsFun);
+// console.log(typeof 23);
+// console.log(typeof "Stanislav");
+
+javaScriptIsFun = 'Yes!';
+console.log(typeof javaScriptIsFun);
+
+let year;
+console.log(year);
+console.log(typeof year);
+
+year = 1991;
+console.log(typeof year);
+
+// there is a bug in the (typeof) if you place a null the value will = to object but it is not true.
+console.log(typeof null);
